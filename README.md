@@ -29,10 +29,10 @@ Then run the app:
 ```bash
 uv run streamlit run app.py
 ```
-![Streamlit UI](images/ui.png)
 
 Or run the CLI:
 
 ```bash
 uv run python -m csv_profiler.cli profile data/sample.csv --out-dir outputs
 ```
+![Streamlit UI](images/ui.png)
